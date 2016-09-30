@@ -1,3 +1,5 @@
+#define USE_MKL  1
+
 #include <string>
 #include <vector>
 
